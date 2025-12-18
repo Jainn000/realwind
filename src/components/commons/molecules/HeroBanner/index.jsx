@@ -42,7 +42,7 @@ const HeroBanner = () => {
 
         <CardMedium
           title="Skills"
-          bgImg={`/images/skills.jpeg`}
+          bgImg={`${import.meta.env.BASE_URL}images/skills.jpg`}
           onClick={() => navigate("/skills")}
         />
       </div>

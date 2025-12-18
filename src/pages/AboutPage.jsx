@@ -11,7 +11,7 @@ const AboutPage = () => {
           About Us
         </h1>
         <p className="text-lg">
-          Hi, I’m Aiden R. Vale, a Frontend Web Developer with a passion for
+          Hi, I’m Zain Fadhlurroman, a Frontend Web Developer with a passion for
           crafting seamless, responsive, and visually compelling web
           experiences. My primary focus lies in building user-centered
           interfaces using modern frameworks like React.js, enhanced by

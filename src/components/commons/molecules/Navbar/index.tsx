@@ -46,7 +46,7 @@ const Navbar = () => {
           <BoxProfile
             name={`Zain Fadhlurroman`}
             onClick={() => console.log("profile")}
-            picture={`/images/zain.jpeg`}
+            picture={`${import.meta.env.BASE_URL}images/zain.jpeg`}
           />
         </section>
       </header>

@@ -5,19 +5,19 @@ const listSocial = [
     link: "https://www.facebook.com/",
   },
   {
-    name: "X",
-    icon: "fa-solid fa-x",
-    link: "https://x.com/",
+    name: "WhatsApp",
+    icon: "fa-solid fa-whastapp",
+    link: "https://wa.me/62895326206145",
   },
   {
     name: "Instagram",
     icon: "fa-brands fa-instagram",
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/_zzain2",
   },
   {
     name: "LinkedIn",
     icon: "fa-brands fa-linkedin",
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/zain-fadhlurroman-191a42309/",
   },
 ];
 

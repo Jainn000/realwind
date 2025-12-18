@@ -36,7 +36,7 @@ const HeroBanner = () => {
       <div className="absolute right-4 bottom-4 flex flex-col gap-4 max-md:bottom-14">
         <CardMedium
           title="About"
-          bgImg={`/images/zain.jpeg`}
+          bgImg={`${import.meta.env.BASE_URL}images/zain.jpeg`}
           onClick={() => navigate("/about")}
         />
 
